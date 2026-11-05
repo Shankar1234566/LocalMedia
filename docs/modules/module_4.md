@@ -1,3 +1,3 @@
 # Module 4 Specification
 
-Implementation details for module 4.
+Implementation details and verification specs for module 4.
