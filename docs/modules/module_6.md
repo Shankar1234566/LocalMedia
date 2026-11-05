@@ -1,3 +1,3 @@
-# Module 6 Documentation
+# Module 6 Setup
 
-Specification and unit tests structural blueprint for module 6.
+Implementation specs for module 6.
