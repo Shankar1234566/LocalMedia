@@ -1,3 +1,3 @@
-# Module 5 Setup
+# Module 5 Specification
 
-Implementation specs for module 5.
+Implementation details for module 5.
