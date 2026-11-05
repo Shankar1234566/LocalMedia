@@ -1,3 +1,3 @@
 # Module 3 Specification
 
-Implementation details for module 3.
+Implementation details and structural documentation for module 3.
