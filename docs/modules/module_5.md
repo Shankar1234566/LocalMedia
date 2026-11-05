@@ -1,3 +1,3 @@
-# Module 5 Documentation
+# Module 5 Setup
 
-Specification and unit tests structural blueprint for module 5.
+Implementation specs for module 5.
