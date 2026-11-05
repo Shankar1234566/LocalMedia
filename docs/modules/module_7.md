@@ -1,3 +1,3 @@
-# Module 7 Documentation
+# Module 7 Setup
 
-Specification and unit tests structural blueprint for module 7.
+Implementation specs for module 7.
