@@ -1,3 +1,3 @@
 # Module 7 Specification
 
-Implementation details for module 7.
+Implementation details and verification specs for module 7.
