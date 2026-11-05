@@ -1,3 +1,3 @@
 # Module 1 Specification
 
-Implementation details for module 1.
+Implementation details and verification specs for module 1.
