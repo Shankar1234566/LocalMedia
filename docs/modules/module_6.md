@@ -1,3 +1,3 @@
 # Module 6 Specification
 
-Implementation details for module 6.
+Implementation details and verification specs for module 6.
