@@ -1,3 +1,3 @@
-# Module 2 Setup
+# Module 2 Specification
 
-Implementation specs for module 2.
+Implementation details for module 2.
