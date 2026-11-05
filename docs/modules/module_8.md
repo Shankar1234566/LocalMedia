@@ -1,3 +1,3 @@
-# Module 8 Setup
+# Module 8 Specification
 
-Implementation specs for module 8.
+Implementation details for module 8.
