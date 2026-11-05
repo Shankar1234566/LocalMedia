@@ -1,3 +1,3 @@
-# Module 8 Documentation
+# Module 8 Setup
 
-Specification and unit tests structural blueprint for module 8.
+Implementation specs for module 8.
