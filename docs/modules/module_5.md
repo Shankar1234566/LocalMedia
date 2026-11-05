@@ -1,3 +1,3 @@
 # Module 5 Specification
 
-Implementation details for module 5.
+Implementation details and verification specs for module 5.
