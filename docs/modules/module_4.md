@@ -1,3 +1,3 @@
-# Module 4 Documentation
+# Module 4 Setup
 
-Specification and unit tests structural blueprint for module 4.
+Implementation specs for module 4.
