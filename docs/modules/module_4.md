@@ -1,3 +1,3 @@
-# Module 4 Setup
+# Module 4 Specification
 
-Implementation specs for module 4.
+Implementation details for module 4.
