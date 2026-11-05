@@ -1,3 +1,3 @@
-# Module 6 Setup
+# Module 6 Specification
 
-Implementation specs for module 6.
+Implementation details for module 6.
