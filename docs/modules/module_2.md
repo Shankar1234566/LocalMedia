@@ -1,3 +1,3 @@
-# Module 2 Documentation
+# Module 2 Setup
 
-Specification and unit tests structural blueprint for module 2.
+Implementation specs for module 2.
